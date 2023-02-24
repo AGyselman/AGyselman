@@ -1,16 +1,21 @@
-<h1 align="center">Hi 👋, I'm Gyselman Anthony</h1>
-<h3 align="center">Passionate about frontend and design</h3>
+<img width="100%" src="https://i.pinimg.com/originals/4e/a8/4f/4ea84f04d08d72d2cd574d14f5dad176.jpg" height="280px">  
+<h1 align="center">Hi 🤝, I'm Gyselman Anthony</h1> 🇨🇵
+<h3 align="left">Passionate about frontend and design</h3>
+<img align="right" width="300" src="https://i.pinimg.com/originals/09/79/c6/0979c6c045cb01112abd7b02d910d57c.gif"> 	
 
-- 🌱 I’m currently learning **Frameworks TailwindCSS and ReactJs / native**
+- I’m currently learning **Frameworks TailwindCSS and ReactJs / native**
 
-- 👨‍💻 All of my projects are available at [anthonygyselman.com and https://github.com/AGyselman]
+- All of my projects are available @ [anthonygyselman.com](https://anthonygyselman.com/) and https://github.com/AGyselman 
 
 - 📫 How to reach me **anthony.gyselman@gmail.com**
 
-- 📄 Know about my experiences [Find my resume on my website]
+- 📄 Know about my experiences [Find my resume on my website](Find my resume on my website)
 
+- Fun fact **I think i love Zelda so much !** 👉
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/anthonygyselman.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anthonygyselman.com" height="30" width="40" /></a>
+<a href="https://twitter.com/gyselman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gyselman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anthony gyselman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony gyselman" height="30" width="40" /></a>
 </p>
 

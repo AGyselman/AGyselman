@@ -7,9 +7,9 @@
 
 - All of my projects are available @ [anthonygyselman.com](https://anthonygyselman.com/) and https://github.com/AGyselman 
 
-- 📫 How to reach me **anthony.gyselman@gmail.com**
+- 📫 How to reach me : **anthony.gyselman@gmail.com**
 
-- 📄 Know about my experiences [Find my resume on my website](Find my resume on my website)
+- 📄 Know about my experiences : Find my resume on my website
 
 - Fun fact **I think i love Zelda so much !** 👉
 <h3 align="left">Connect with me:</h3>

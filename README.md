@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anthony.gyselman@gmail.com**
 
-- 📄 Know about my experiences [Find my resume on my website](Find my resume on my website)
+- 📄 Know about my experiences [Find my resume on my website]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

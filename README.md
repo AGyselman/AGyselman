@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frameworks TailwindCSS and ReactJs / native**
 
-- 👨‍💻 All of my projects are available at [anthonygyselman.com and https://github.com/AGyselman](anthonygyselman.com and https://github.com/AGyselman)
+- 👨‍💻 All of my projects are available at [anthonygyselman.com and https://github.com/AGyselman]
 
 - 📫 How to reach me **anthony.gyselman@gmail.com**
 
